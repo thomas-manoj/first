@@ -1,3 +1,4 @@
-echo "My Name is Manoj"
-a=7
-echo "My Name is Manoj $a"
+echo "Enter your name"
+read name
+echo "welcome $name"
+echo "To The new World"
