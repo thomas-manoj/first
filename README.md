@@ -1,2 +1,1 @@
-My name is manoj
-Completed B.Tech
+My Name is Manoj
