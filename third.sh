@@ -1,6 +1,5 @@
-echo "Hi everyone"
-for i in * 
+echo "Hi all"
+for i in {1..5}
 do
-cd /d/git-prat/practice/$i
-cat $i
+	echo "print $i"
 done
